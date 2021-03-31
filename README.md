@@ -25,4 +25,6 @@ According to this analysis, we can make three recommendations to PyBer to addres
 
 •	In rural cities, PyBer could consider reducing the fee per kilometers since longer distance are traveled. If the fare is too high, potential client might ask a friend for a ride for lower fee instead of using PyBer.
 
-•	After implementing the changes, we can perform another analysis to see the effects on ridership and revenues.
+•	•	Pyber could offer a scheduled ‘bus type’ service for rural area and help reducing the fare cost for customers.
+
+After implementing the changes, we can perform another analysis to see the effects on ridership and revenues.

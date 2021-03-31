@@ -20,6 +20,9 @@ Using the weekly fare data, we plotted a line graph for each city type.
 
 ## Summary:
 According to this analysis, we can make recommendations to PyBer to address disparities between city types.
+
 •	Since most revenues come from more densely populated urban cities, PyBer could consider giving a bigger share of the fare to the drivers. This could be an incentive to retain drivers and attract new ones. With more drivers, wait time would be shorter and more people might use their service.
+
 •	In rural cities, PyBer could consider reducing the fee per kilometers since longer distance are traveled. If the fare is too high, potential client might ask a friend for a ride for lower fee instead of using PyBer.
+
 •	After implementing the changes, we can perform another analysis to see the effects on ridership and revenues.
